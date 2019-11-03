@@ -1,4 +1,4 @@
 This API enables cross-origin requests to https://isthisarealjob-api.herokuapp.com/
 
 Documentation 
-Visit https://documenter.getpostman.com/view/9310664/SW14TvyM?version=latest for necessary documentation
+Visit https://documenter.getpostman.com/view/9310664/SW14TwW8?version=latest for necessary documentation
